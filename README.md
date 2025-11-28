@@ -36,18 +36,6 @@
 
 ---
 
-## 🤖 AI Tools & Integration
-
-Tools I have worked with:
-
-<p align="left">
-  <img src="https://img.shields.io/badge/API_Integration-OpenRouter_API-blue?style=for-the-badge" alt="OpenRouter API Badge"/>
-  
-  <img src="https://img.shields.io/badge/Feature-AI_Assistant-informational?style=for-the-badge" alt="AI Assistant Feature Badge"/>
-</p>
-
----
-
 ## 🌱 Currently Working On
 
 > **🎯 Objective:** Eager to apply technical knowledge in real-world projects and contribute to team success.
