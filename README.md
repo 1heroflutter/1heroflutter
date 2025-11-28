@@ -31,8 +31,8 @@
 
 ## 🏗️ Architecture & State Management
 
-* [cite_start]**Architectures:** Clean Architecture [cite: 8, 23, 29, 35][cite_start], MVVM [cite: 8, 14, 35]
-* [cite_start]**State Management:** BLoC [cite: 23, 29][cite_start], GetX [cite: 21, 31][cite_start], Stream [cite: 35][cite_start], LiveData/StateFlow 
+* **Architectures:** Clean Architecture, MVVM
+* **State Management:** BLoC, GetX, Stream, LiveData/StateFlow
 
 ---
 
@@ -40,28 +40,33 @@
 
 Tools I have worked with:
 
-* [cite_start]**API Integration:** OpenRouter API.
-* [cite_start]**AI Feature:** Integrated an **AI Assistant** for workload optimization in the Todo App project[cite: 24].
+<p align="left">
+  <img src="https://img.shields.io/badge/API_Integration-OpenRouter_API-blue?style=for-the-badge" alt="OpenRouter API Badge"/>
+  
+  <img src="https://img.shields.io/badge/Feature-AI_Assistant-informational?style=for-the-badge" alt="AI Assistant Feature Badge"/>
+</p>
 
 ---
 
 ## 🌱 Currently Working On
 
-> [cite_start]**Objective:** Eager to apply technical knowledge in real-world projects and contribute to team success[cite: 9].
+> **🎯 Objective:** Eager to apply technical knowledge in real-world projects and contribute to team success.
 
 My focus areas include:
 
-* [cite_start]Building cross-platform and native applications[cite: 7].
-* [cite_start]Strengthening MVVM architecture [cite: 8] [cite_start]and Clean Architecture [cite: 8] implementations.
-* [cite_start]Deepening backend integration skills (Firebase, REST API)[cite: 8].
+* 📱 **Mobile Development:** Building cross-platform and native applications.
+* 🏗️ **Architecture:** Strengthening MVVM architecture and Clean Architecture implementations.
+* ☁️ **Backend Integration:** Deepening backend integration skills (Firebase, REST API).
 
 ---
 
 ## 🔗 Connect With Me
 
-* [cite_start]**GitHub:** [1heroflutter](https://github.com/1heroflutter) [cite: 6]
-* [cite_start]**Email:** hnhat.dev@gmail.com [cite: 5]
-* [cite_start]**Phone:** 0398575637 [cite: 4]
-* [cite_start]**Location:** Tan Binh, Ho Chi Minh, Viet Nam [cite: 6]
+* **GitHub:** [1heroflutter](https://github.com/1heroflutter)
+* **Email:** hnhat.dev@gmail.com
+* **Phone:** 0398575637
+* **Location:** Tan Binh, Ho Chi Minh, Viet Nam
 
 ---
+
+Bạn có muốn tôi giúp bạn thêm **Thẻ thống kê GitHub (GitHub Stats Cards)** vào hồ sơ này để trông chuyên nghiệp hơn nữa không?
