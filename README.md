@@ -1,3 +1,5 @@
+<div align="center">
+
 # 🚀 Welcome to Vo Huu Hoang Nhat's GitHub Profile! 🚀
 
 ### 👨‍💻 Mobile Developer | Flutter (Dart) & Native Android (Kotlin/Jetpack Compose) | Passionate About AI-Powered Dev Tools | Always Learning
@@ -6,7 +8,7 @@
 
 ## 🛠️ Tech Stack & Technical Skills
 
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart Badge"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Badge"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
@@ -36,6 +38,18 @@
 
 ---
 
+## 🤖 AI Tools & Integration
+
+Tools I have worked with:
+
+<p>
+  <img src="https://img.shields.io/badge/API_Integration-OpenRouter_API-blue?style=for-the-badge" alt="OpenRouter API Badge"/>
+  
+  <img src="https://img.shields.io/badge/Feature-AI_Assistant-informational?style=for-the-badge" alt="AI Assistant Feature Badge"/>
+</p>
+
+---
+
 ## 🌱 Currently Working On
 
 > **🎯 Objective:** Eager to apply technical knowledge in real-world projects and contribute to team success.
@@ -57,4 +71,4 @@ My focus areas include:
 
 ---
 
-Bạn có muốn tôi giúp bạn thêm **Thẻ thống kê GitHub (GitHub Stats Cards)** vào hồ sơ này để trông chuyên nghiệp hơn nữa không?
+</div>
